@@ -26,11 +26,11 @@ public class ArrayList_Concept {
     public static void main(String[] args) {
 
         ArrayList<String> arrList = new ArrayList<String>();
-        arrList.add("suresh");
-        arrList.add("manoj");
-        arrList.add("prasanth");
-        arrList.add("madhan");
-        arrList.add("revanth");
+        arrList.add("Monica");
+        arrList.add("Chandler");
+        arrList.add("Rachel");
+        arrList.add("Joey");
+        arrList.add("Ross");
         arrList.add("coding");
         ArrayList_Concept.display(arrList);
         System.out.println("-------------------");
